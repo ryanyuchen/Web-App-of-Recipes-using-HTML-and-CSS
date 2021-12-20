@@ -524,7 +524,7 @@ Recipes
     grid-template-columns: 1fr;
   }
 }
-/* layout for screen size of 1200x big screen */
+/* layout for screen size of 1200x large screen */
 @media screen and (min-width: 1200px) {
   .recipe h5 {
     font-size: 1.15rem;
