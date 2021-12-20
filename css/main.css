@@ -264,6 +264,7 @@ Navbar
   display: flex;
   align-items: center;
   justify-content: center;
+  background: rgb(50, 187, 205);
 }
 .nav-center {
   width: 90vw;

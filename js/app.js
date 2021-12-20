@@ -3,7 +3,7 @@ const getElement = (selector) => {
 
   if (element) return element
   throw Error(
-    `Please double check your class names, there is no ${selector} class`
+    `Please check your class names, there is no ${selector} class`
   )
 }
 
